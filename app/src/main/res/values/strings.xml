@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="home_fragment_placeholder">Nenhum cartão gravado.\nQue tal gravar um agora?</string>
+    <string name="add_card_placeholder">This is Add Card Fragment</string>
+    <string name="nome_placeholder">Johnny Appleseed</string>
+    <string name="telefone_placeholder">(41) 2222 4444</string>
+    <string name="email_placeholder">johnny@appleseed.org</string>
+    <string name="empresa_placeholder">Appleseed LLC</string>
+    <string name="description_add_card_fragment">Adicionar um cartão</string>
+    <string name="label_name">Nome</string>
+    <string name="label_telephone">Telefone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_empresa">Empresa</string>
+    <string name="label_save_btn">Salvar</string>
+    <string name="label_color">Cor</string>
+    <string name="label_share">Comprartilhar</string>
+    <string name="dialog_delete_msg">Você deseja apagar o cartão? Essa ação não pode ser desfeita.</string>
+    <string name="label_no">Não</string>
+    <string name="label_yes">Sim</string>
+    <string name="dialog_title_delete">Apagar cartão</string>
+    <string name="description_edit_card_fragment">Editar um cartão</string>
+</resources>
